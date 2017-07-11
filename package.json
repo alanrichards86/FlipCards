@@ -19,6 +19,7 @@
     "mustache": "^2.3.0",
     "mustache-express": "^1.2.5",
     "path": "^0.12.7",
-    "superset": "^1.0.1"
+    "superset": "^1.0.1",
+    "supertest": "^3.0.0"
   }
 }
